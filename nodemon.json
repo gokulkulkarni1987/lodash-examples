@@ -1,0 +1,6 @@
+{
+    "watch": [
+      "app"
+    ],
+    "exec": "npm run prestart && node ./bin/www & node apiServer.js"
+ }

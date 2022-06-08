@@ -1,0 +1,96 @@
+
+.logo{
+	width: 40px;
+	height: 40px;
+}
+
+.sideBarIcon{
+	width: 25px;
+	height: 25px;
+	margin-right: 5px;
+}
+
+.sideBarColor {
+	background-color: #2b6282 !important;
+}
+
+.sideBarIconSm{
+	width: 44px;
+	height: 44px;
+	margin-right: 5px;
+}
+
+.dashboardCardsIconSm{
+	width: 34px;
+	height: 34px;
+	margin-right: 5px;
+}
+.cardHeader{
+	background: #e4e4e4;
+    border-bottom: 2px solid #00bbe6;
+    border-top: 1px solid #cfcfcf;
+    border-right: 1px solid #cfcfcf;
+    border-left: 1px solid #cfcfcf;
+}
+
+.topMessageWrapper{
+	background: white;
+	padding: 10px;
+	margin: 5px;
+}
+
+.topBarMessage{
+	text-align: center;
+	padding-top: 15px;
+}
+
+.dashboardCard{
+	background: white;
+	min-width: 295px;
+	/* margin: 10px;
+	padding: 20px; */
+}
+
+.equal {
+    display: -webkit-flex;
+    display: flex;
+}
+.volunteerFacesSet0{
+	position: relative;
+	left: 35%;
+}
+.volunteerFacesSet1{
+	position: relative;
+	left: 25%;
+}
+
+.volunteerFacesSet2{
+	position: relative;
+	left: 15%;
+}
+
+.volunteerFaces{
+	width: 64px;
+	height: 64px;
+}
+
+.teamFaces{
+	width: 34px;
+	height: 34px;
+	margin: 10px;
+}
+
+.leftStat{
+	position: relative;
+	left: 12%;
+}
+
+.donaitonsStat{
+	position: relative;
+	left: 18%;
+}
+
+.beneficiaryImg{
+	width: 100px;
+	height: 90px;
+}

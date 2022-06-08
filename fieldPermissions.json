@@ -1,0 +1,16 @@
+{
+    "Ramesh" : {
+        "_id_perm": "clear",
+        "phone_perm": "mask",
+        "name_perm": "clear",
+        "email_perm": "clear",
+        "photoURL_perm": "clear"
+    },
+    "Chetan" : {
+        "_id_perm": "clear",
+        "phone_perm": "mask",
+        "name_perm": "clear",
+        "email_perm": "mask",
+        "photoURL_perm": "clear"
+    }
+}

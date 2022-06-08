@@ -1,0 +1,30 @@
+.profileContent{
+  margin-left: 0.6%;
+  padding: 5px;
+}
+
+.ngoLogoPreview{
+  width: 128px;
+  height: 128px;
+}
+
+.profileNavbarText{
+  color: black;
+}
+
+.micrositeFields{
+  margin: 5px;
+}
+
+.micrositeCard{
+  background: white;
+	margin: 5px;
+  padding-bottom: 5px;
+}
+
+
+.featuresIcon{
+	width: 25px;
+	height: 25px;
+	margin-right: 5px;
+}
